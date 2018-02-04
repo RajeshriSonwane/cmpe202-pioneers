@@ -48,7 +48,7 @@ In early centuries, during the third age of men, a magician Gandalf - The Grey h
 	</tr>
 	<tr>
 		<td>Deployment</td>
-		<td>Docker, Kubernetes, Heroku</td>
+		<td>Docker, Kubernetes</td>
 	</tr>
 </tbody>
 </table>
